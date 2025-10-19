@@ -3340,6 +3340,11 @@
   dependencies:
     "semver" "^6.0.0"
 
+"marked@^16.4.1":
+  "integrity" "sha512-ntROs7RaN3EvWfy3EZi14H4YxmT6A5YvywfhO+0pm+cH/dnSQRmdAmoFIc3B9aiwTehyk7pESH4ofyBY+V5hZg=="
+  "resolved" "https://registry.npmjs.org/marked/-/marked-16.4.1.tgz"
+  "version" "16.4.1"
+
 "mdn-data@2.0.14":
   "integrity" "sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow=="
   "resolved" "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz"
